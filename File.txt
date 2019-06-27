@@ -4,13 +4,15 @@ class HelloGit  {
 
 		void hellogit()
 		{
-		sysout("hello git welcome...!!!")
+		system.out.println("hello git welcome...!!!")
 
 
 		}
 
 	public static void main(String str[] args)
 		{
+			HelloGit obj=new Hellogit();
+			obj.helloGit();
 
 
 		}
