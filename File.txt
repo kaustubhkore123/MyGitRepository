@@ -2,7 +2,7 @@ this is my first git....Welcome to git singham...!!!
 
 class HelloGit  {
 
-		void hellogit()
+		static final void hellogit()
 		{
 		system.out.println("hello git welcome...!!!")
 
